@@ -1,0 +1,7 @@
+{
+  "name": "Morocco EduSolve AI",
+  "description": "An AI-powered educational assistant for Moroccan high school students. Take a photo of any Math, Physics, or Chemistry exercise to get step-by-step pedagogical solutions in Arabic or French.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
